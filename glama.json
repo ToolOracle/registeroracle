@@ -1,1 +1,8 @@
-{"name": "RegisterOracle", "description": "DORA Art. 28 register of information \u2014 10 MCP tools for ITS-compliant RoI, CTPP checks", "category": "compliance", "tags": ["dora", "register", "ict", "compliance"], "tools": 10, "transport": "streamable-http", "endpoint": "https://tooloracle.io/register/mcp/"}
+{
+  "name": "registerOracle",
+  "description": "DORA Art. 28 Register of Information \u2014 10 MCP tools for RoI management",
+  "repository": "https://github.com/ToolOracle/registeroracle",
+  "endpoint": "https://tooloracle.io/register/mcp/",
+  "tools": 10,
+  "license": "MIT"
+}
