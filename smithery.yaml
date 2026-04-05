@@ -1,0 +1,5 @@
+name: RegisterOracle
+description: DORA Art. 28 Register of Information — 10 tools
+endpoint: https://tooloracle.io/register/mcp/
+transport: streamable-http
+license: MIT
